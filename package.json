@@ -1,10 +1,10 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
